@@ -1,0 +1,35 @@
+The point at which the phoneme that disambiguates a word (its uniqueness point) is completed, in ms after onset.
+
+Based on the first instance of each stimulus, in the alignment in EC11_B67's textgrid.
+
+Pseudowords:
+
+tesolivy (teso-) 470
+jatoremee (jat-) 230
+tomeereneye (tomee-) 290
+piteretion (pit-) 340
+reventally (reven-)  350
+lerivedy (ler-) 230
+veimatoshen (veim-) 270
+reifadetion (reif-) 290
+moanaserry (moanase-) 630
+letarossy (let-) 260
+
+AVERAGE: 336
+
+
+Words:
+
+velocity (velo-) 460
+majority (majo-) 420
+minority (minorit-) 520
+repetition (repetition) 783
+voluntary (volun-) 407
+delivery (delivery) 680
+motivation (motivation) 780
+solitary (solita-) 660
+federation (fe-) 150
+ceremony (ceremo-) 590
+
+AVERAGE: 545
+
